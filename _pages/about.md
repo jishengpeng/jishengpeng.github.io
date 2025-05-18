@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master's student in Zhejiang University. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
+I am a second-year master's student in Zhejiang University. I also worked at MSRA Natural Language Computing Group, Alibaba Damo Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者/共一第一) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-<!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. I have learned a lot from them.  -->
+
+<!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. I have learned a lot from them. [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research.  -->
 
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. I also collaborate with [Qian chen (陈谦)](https://scholar.google.com.hk/citations?user=8eosmSQAAAAJ&hl=zh-CN), Siqi Zheng (郑斯奇), [Wen Wang (王雯)](https://scholar.google.com.hk/citations?user=85Tj1OwAAAAJ&hl=zh-CN) from Alibaba Damo Academy Speech Lab. 
+<!--
 
 My research interest includes speech synthesis, discrete codec, generative model and LLM. I have published some papers (第一作者/共一第一) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-<!--
 I have long aspired to and dedicated myself to producing impactful work, whether through groundbreaking algorithms, foundational research, or pioneering contributions. While I value the publication of papers in prestigious conferences (such as A* conferences or the top three), my primary focus is on the substantive influence and innovation of my research. I am actively seeking long-term academic collaborations and welcome any inquiries. Please feel free to contact me at shengpengji@zju.edu.cn[本人长期期待并致力于做出有影响力的工作（效果惊艳的落地算法/基础性的研究/开创性的工作），在意但不是只关注于发了多少篇论文（A会/三大会等等），积极寻求一份长期的学术合作(暑研/进修/实习)，欢迎大家随时联系shengpengji@zju.edu.cn]
 -->
 
@@ -39,7 +40,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
 
-- *2025.05*: 🎉🎉 I join Tencent HunYuan Team as the summer intern under the ‘Project Up’ (青云计划) Talent Programme. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv. (WavReward is the first RL-COT Reward model in the speech domain and the fourth paper of my ‘Wav Series’ for end-to-end spoken dialogue models[WavTokenizer, WavChat, WavRAG, WavReward].)
+- *2025.05*: 🎉🎉 I join Tencent HunYuan Team as the summer intern under the ‘Project Up’ (青云计划) Talent Programme. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv (WavReward is the first RL-COT Reward model in the speech domain and the fourth paper of my ‘Wav Series’ for end-to-end spoken dialogue models[WavTokenizer, WavChat, WavRAG, WavReward]).
 - *2025.05*: ControlSpeech and Language-Codec are accepted by ACL 2025 Main. 9 papers are accepted by ACL 2025 (8 Main). 1 paper is accepted by ICML 2025.
 - *2025.02*: 1 paper is accepted by CVPR 2025. I was selected as a reviewer for ICCV 2025, ACMMM 2025, NeurIPS 2025.
 - *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! 4 papers are accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
